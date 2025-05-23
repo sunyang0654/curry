@@ -2,8 +2,6 @@ import pandas as pd
 import streamlit as st
 from datetime import datetime
 from pathlib import Path
-import tkinter as tk
-from tkinter import filedialog
 
 st.set_page_config(layout="wide")
 
